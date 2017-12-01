@@ -37,8 +37,10 @@ HTML文档中的一个个标签表达的就是页面中的内容；若想要在H
 示例：
 
 ```JavaScript
-<script src="// path to js file" />
+<script src="./main.js" />
 ```
+
+
 
 
 
