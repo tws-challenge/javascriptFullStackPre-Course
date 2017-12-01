@@ -6,9 +6,9 @@
 
 * 下载并安装 **Chrome **浏览器 [https://cn.bing.com/search?q=chrome&toHttps=1&redig=87B23A92DF734192ABE8810466100A4B](https://cn.bing.com/search?q=chrome&toHttps=1&redig=87B23A92DF734192ABE8810466100A4B "Chrome下载")
 
-* 注册\[GitHub\]\([https://github.com/](https://github.com/%29\)\)
+* 注册\[GitHub\]\([https://github.com/](https://github.com/%29%29\)
 
-  \* 想了解GitHub能做些什么？请阅读\[怎样使用 GitHub？ - 知乎\]\([https://www.zhihu.com/question/20070065\)。](https://www.zhihu.com/question/20070065%29。)
+  * 想了解GitHub能做些什么？请阅读\[怎样使用 GitHub？ - 知乎\]\([https://www.zhihu.com/question/20070065\)。](https://www.zhihu.com/question/20070065%29。)
 
 
 
