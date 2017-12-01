@@ -12,9 +12,9 @@
 
 > 想要了解更多的Linux？请阅读\[为什么要学习 Linux？ - 知乎\]\([https://www.zhihu.com/question/20117703\)。](https://www.zhihu.com/question/20117703%29。)
 
-这里再推荐一篇讲关于Mac OS X的文章，感兴趣请自行阅读。\[为什么国外程序员爱用 Mac？ \| vpsee.com\]\([https://www.vpsee.com/2009/06/why-programmers-love-mac/\](https://www.vpsee.com/2009/06/why-programmers-love-mac/\)\)
+> 这里再推荐一篇讲关于Mac OS X的文章，感兴趣请自行阅读。\[为什么国外程序员爱用 Mac？ \| vpsee.com\]\([https://www.vpsee.com/2009/06/why-programmers-love-mac/\](https://www.vpsee.com/2009/06/why-programmers-love-mac/%29\)
 
-\* 常用的Linux命令
+* 常用的Linux命令
 
 ```
 \* 文件/目录: cd, mkdir, cp, rm, mv, pwd, ls, tar, zip, find, grep, less, tail, tree
