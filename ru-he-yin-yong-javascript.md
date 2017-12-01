@@ -8,5 +8,5 @@
 
 正如我们之前所了解到的，**HTML**控制页面的**内容**，**CSS**控制页面的**样式**，**JS**控制页面的**行为**。
 
-HTML文档中的一个个标签表达的就是页面中的内容；若想要在HTML文档中加入样式，可以在某一个标签中加入`style`属性同时写上CSS属性即可，如`<p style="font-size:16px"><p/>`，或者将不同选择器的样式写在HTML文档`head`中的`<style>//some css attributes</style>`标签下
+HTML文档中的一个个标签表达的就是页面中的内容；若想要在HTML文档中加入样式，可以在某一个标签中加入`style`属性同时写上CSS属性即可，如`<p style="font-size:16px"><p/>；`或者将不同选择器的样式写在HTML文档`head`中的`<style>//some css attributes</style>`标签下
 
