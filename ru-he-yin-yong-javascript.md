@@ -10,6 +10,21 @@
 
 HTML文档中的一个个标签表达的就是页面中的内容；若想要在HTML文档中加入样式，可以在某一个标签中加入`style`属性同时写上CSS样式即可，如`<p style="font-size:16px"><p/>`，或者将不同选择器的样式写在HTML文档`head`中的`<style>//some css attributes</style>`标签下，也可以在HTML文档中的`head`下加入`link`标签外链CSS文件，如：`<link rel="stylesheet" type="text/css" href="//path to css file">` 。那么我们如何在HTML文档中引入JS呢？
 
-* 
+* 内部引用
+
+通过HTML文档内的`script`标签加载JS代码。
+
+示例：
+
+```Javascript
+<script type="text/javascript">
+  document.write("dreamdu!");
+</script>
+```
+
+通过此方式就可以在当前页面中引入`script`标签中的JS内容。
+
+* 外部引用
+
 
 
