@@ -18,7 +18,7 @@ HTML文档中的一个个标签表达的就是页面中的内容；若想要在H
 
 ```Javascript
 <script type="text/javascript">
-  document.write("dreamdu!");
+  document.write("Hello World!");
 </script>
 ```
 
