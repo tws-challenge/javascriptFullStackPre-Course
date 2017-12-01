@@ -6,5 +6,5 @@
 * [学习方式和建议](xue-xi-fang-shi-he-jian-yi.md)
 * [初识Linux](chu-shi-linux.md)
 * [JS Basic](js-basicuse-js.md)
-* 如何引用JavaScript
+* [如何引用JavaScript](ru-he-yin-yong-javascript.md)
 
