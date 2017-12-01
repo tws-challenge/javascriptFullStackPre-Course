@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [课程介绍](chapter1.md)
+* [课程目标](chapter1.md)
 
