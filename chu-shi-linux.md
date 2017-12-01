@@ -11,24 +11,16 @@
   * 当我们接触到编程领域，无论是作为任何一个语言的开发者，只要我们在这个领域内，不管怎么学习下去，Linux永远绕不开。从前期的语言开发，到后期的服务器部署，分布式，集群环境，数据库相关等，Linux都在等着我们。
 
 > 想要了解更多的Linux？请阅读\[为什么要学习 Linux？ - 知乎\]\([https://www.zhihu.com/question/20117703\)。](https://www.zhihu.com/question/20117703%29。)
-
+>
 > 这里再推荐一篇讲关于Mac OS X的文章，感兴趣请自行阅读。\[为什么国外程序员爱用 Mac？ \| vpsee.com\]\([https://www.vpsee.com/2009/06/why-programmers-love-mac/\](https://www.vpsee.com/2009/06/why-programmers-love-mac/%29\)
 
 * 常用的Linux命令
-
-```
-\* 文件/目录: cd, mkdir, cp, rm, mv, pwd, ls, tar, zip, find, grep, less, tail, tree
-
-\* 帐号操作: su, sudo, whoami, passwd
-
-\* 包管理: apt-get，添加软件源
-
-\* 进程相关: ps, kill
-
-\* 系统信息相关: top, df, uname
-
-\* 网络相关：ping, telnet, curl, netstat，修改hosts
-```
+  * 文件/目录: cd, mkdir, cp, rm, mv, pwd, ls, tar, zip, find, grep, less, tail, tree
+  * 帐号操作: su, sudo, whoami, passwd
+  * 包管理: apt-get，添加软件源
+  * 进程相关: ps, kill
+  * 系统信息相关: top, df, uname
+  * 网络相关：ping, telnet, curl, netstat，修改hosts
 
 
 
