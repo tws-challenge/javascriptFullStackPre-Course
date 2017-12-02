@@ -1,6 +1,6 @@
 # Summary
 
-* [课程介绍](0 intro/intro.md)
+* [课程介绍](/0 intro/0 intro.md)
 * [Start](1 start/1. start.md)
   * [教学方法](1 start//1.1 learning-method.md)
   * [软件和工具](1 start/soft-tools.md)
