@@ -1,7 +1,7 @@
 # Summary
 
 * [课程介绍](0 intro/0 intro.md)
-* [Start](1 start/1. start.md)
+* [Start](1 start/1. intro.md)
   * [教学方法](1 start/1.1 learning-method.md)
   * [软件和工具](1 start/1.2 soft-tools.md)
 * [初识Linux](chu-shi-linux.md)
