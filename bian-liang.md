@@ -46,3 +46,28 @@ name = 10; // 有效！但不推荐
 
 在这个例子中，变量`name`一开始保存了一个字符串的值`’Bob‘`，然后该值又被一个数字值`10`取代。虽然这种方式在JS中完全有效，但是我们不建议修改变量时修改所保存值的类型。
 
+有时我们可能需要同时定义多个变量，比如要一起定义姓名，年龄，学号，我们可以用下面的方法来定义变量：
+
+```JavaScript
+var name = 'Bob';
+var age = 16;
+var stuNo = 0012323;
+
+// 也可以这样定义
+var name = 'Bob',
+    age = 16,
+    stuNo = 0012323;
+```
+
+第一种方法我们分别定义了三个变量，通过对比上面两种方法可以发现第二种方法将分号改为逗号，只有一个`var`同时定义了三个变量。同样，由于JS是松散类型的，因而使用不同类型初始化变量的操作可以放在一条语句中来完成。虽然代码里的换行和变量缩进不是必须的，但这样做可以提高代码的可读性。
+
+#### 推荐其他资料
+
+* [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var "JS 变量")
+
+* [https://www.sitepoint.com/how-to-declare-variables-javascript/](https://www.sitepoint.com/how-to-declare-variables-javascript/ "在JS中如何声明变量？")
+
+#### 本节练习
+
+
+
