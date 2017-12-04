@@ -69,5 +69,13 @@ var name = 'Bob',
 
 #### 本节练习
 
+* 判断下面哪些是合法的标识符（变量名）？
+  * `5Name`
+
+  * `getName`
+  * `$age`
+
+  * `_sayHello`
+
 
 
