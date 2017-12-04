@@ -72,6 +72,4 @@ JavaScript 字符串是不可更改的。这意味着字符串一旦被创建，
 * 符号类型：`Symbol`
 符号(Symbols)是ES6新定义的。符号类型是唯一的并且是不可修改的。`Symbol`不作为pre-course的学习重点。
 
-
-
-
+##### 对象：`Object`
