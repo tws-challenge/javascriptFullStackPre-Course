@@ -96,3 +96,9 @@ alert(2 + 3 * 3);  // 11
 alert((1 + 2) * 2 + 2); // 8
 alert((2 + 2) / 2); // 2
 ```
+#### 其他资料推荐
+* [JS表达式和操作符 - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+* [JS操作符 - w3school](https://www.w3schools.com/jsref/jsref_operators.asp)
+* [JS中==和===的区别](https://appendto.com/2016/02/vs-javascript-abstract-vs-strict-equality/)
+* [运算符优先级 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+#### 本节练习
