@@ -1,4 +1,4 @@
-# 数据类型
+数据类型
 
 #### 本节学习目标
 
@@ -28,6 +28,7 @@ var foo = true;  // foo is a Boolean now
   * `Number`
 
   * `String`
+
   * `Symbol(在ES6中新定义，本节暂不讲解)`
 
 * 对象\(`Object`\)类型
@@ -67,9 +68,7 @@ JavaScript 字符串是不可更改的。这意味着字符串一旦被创建，
 
 2. 两个字符串的连接使用连接操作符 \(`+`\) 或者`String.concat()`。
 
-
-
-
+* 符号类型
 
 
 
