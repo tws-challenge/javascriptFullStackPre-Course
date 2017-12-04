@@ -7,4 +7,5 @@
 * [初识Linux](chu-shi-linux.md)
 * [JS Basic](js-basicuse-js.md)
 * [如何引用JavaScript](ru-he-yin-yong-javascript.md)
+* [变量](bian-liang.md)
 
