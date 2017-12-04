@@ -21,6 +21,7 @@ var foo = true;  // foo is a Boolean now
 * 6种原始类型：
 
   * `Boolean`
+
   * `Null`
 
   * `Undefined`
@@ -62,6 +63,8 @@ Null 类型只有一个值：`null`，表示空值，表示没有被呈现。
 
 JavaScript的字符串类型用于表示文本数据。在字符串中的每个元素占据了字符串的位置。第一个元素的索引为0，下一个是索引1，依此类推。字符串的长度是它的元素的数量。
 
+在JS中的字符串需要使用单引号`'**'`或双引号`"**"`括起来，表示该值是一个字符串。
+
 JavaScript 字符串是不可更改的。这意味着字符串一旦被创建，就不能被修改。但是，可以基于对原始字符串的操作来创建新的字符串。例如：
 
 1. 获取一个字符串的子串可通过选择个别字母或者使用`String.substr()`。
@@ -89,4 +92,21 @@ var person = {
   gender: 'male'
 };
 ```
-上述对象就定义了一个名为’Bob‘,20岁，男性的人。
+上述对象就定义了一个名为’Bob‘，20岁，的男生。
+
+##### `typeof`操作符
+由于JS是松散类型的，因此需要有一种手段来检测给定变量的数据类型——`typeof`就是负责提供这方面信息的操作符。对一个值使用`typeof`操作符可能返回下列某个字符串：
+* `'undefined'` —— 未定义
+* `'boolean'` —— 布尔值
+* `'string'` —— 字符串
+* `'number'` —— 数字值
+* `'object'` —— 对象或`null`
+* `function` —— 函数
+下面展示一下使用`typeof`的示例：
+```JavaScript
+var message = 'some string';
+alert(typeof message); // "string"
+alert(typeof(message)); // "string"
+alert(typeof 95); // number
+```
+在实际编程的过程中，可以用`typeof`判断任何一个变量的数据类型。
