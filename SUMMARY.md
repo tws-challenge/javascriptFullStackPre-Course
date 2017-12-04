@@ -13,4 +13,5 @@
 * [初识Linux](chu-shi-linux.md)
 * [JavaScript基础](javascriptji-chu.md)
   * [数据类型](javascriptji-chu/shu-ju-lei-xing.md)
+  * [数学运算符](javascriptji-chu/shu-xue-yun-suan-fu.md)
 
