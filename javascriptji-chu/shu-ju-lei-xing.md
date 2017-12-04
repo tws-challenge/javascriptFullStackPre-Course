@@ -73,4 +73,7 @@ JavaScript 字符串是不可更改的。这意味着字符串一旦被创建，
 符号(Symbols)是ES6新定义的。符号类型是唯一的并且是不可修改的。`Symbol`不作为pre-course的学习重点。
 
 ##### 对象：`Object`
-在 Javascript 里，对象可以被看作是一组属性的集合。
+在 Javascript 里，对象可以被看作是一组数据和属性的集合。对象可以通过`new`操作符后跟要创建的对象类型的名称来创建。而创建Object类型的示例并为其添加属性和（或）方法，就可以创建自定义对象，如下所示：
+```JavaScript
+var o = new Object();
+```
