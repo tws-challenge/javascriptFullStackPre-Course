@@ -110,3 +110,7 @@ alert(typeof(message)); // "string"
 alert(typeof 95); // number
 ```
 在实际编程的过程中，可以用`typeof`判断任何一个变量的数据类型。
+
+#### 推荐其他资料
+* [JS数据类型 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures)
+#### 本节练习
