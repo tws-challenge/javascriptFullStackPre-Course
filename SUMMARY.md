@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [课程介绍](0 intro/0 intro.md)
 * [Start](1 start/1. intro.md)
   * [教学方法](1 start/1.1 learning-method.md)
@@ -13,6 +14,4 @@
 * [JS Basic](js-basicuse-js.md)
 * [如何引用JavaScript](ru-he-yin-yong-javascript.md)
 * [变量](bian-liang.md)
-
-
 
