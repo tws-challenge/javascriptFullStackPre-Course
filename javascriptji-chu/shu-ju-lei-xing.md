@@ -113,4 +113,20 @@ alert(typeof 95); // number
 
 #### 推荐其他资料
 * [JS数据类型 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures)
+* [JS对象 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Working_with_Objects)
+* [JS数据类型和变量 - Learning Javascript](http://archive.oreilly.com/pub/a/javascript/excerpts/learning-javascript/javascript-datatypes-variables.html)
 #### 本节练习
+* 阅读关于JS数据类型的文章，在简书中发一篇文章对JS中基本数据类型进行总结。
+* 判断下面的变量分别是什么数据类型：
+```JavaScript
+var a = 95;
+var b = 'name';
+var c = function(){
+  return 'Hello World';
+};
+var d = 10/+0;
+var g = 10/-0;
+var l = 10/'a';
+var e = null;
+var f = undefined;
+```
