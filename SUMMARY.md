@@ -11,4 +11,6 @@
   * [如何写 blog](2 基本技能/2.3 how-to-write-blog.md)
   * [Git 的简单应用](2 基本技能/2.4 intro-git.md)
 * [初识Linux](chu-shi-linux.md)
+* [JavaScript基础](javascriptji-chu.md)
+  * [数据类型](javascriptji-chu/shu-ju-lei-xing.md)
 
