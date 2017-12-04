@@ -26,6 +26,7 @@ var foo = true;  // foo is a Boolean now
   * `Undefined`
 
   * `Number`
+
   * `String`
   * `Symbol(在ES6中新定义，本节暂不讲解)`
 
@@ -62,9 +63,13 @@ JavaScript的字符串类型用于表示文本数据。在字符串中的每个�
 
 JavaScript 字符串是不可更改的。这意味着字符串一旦被创建，就不能被修改。但是，可以基于对原始字符串的操作来创建新的字符串。例如：
 
-* 获取一个字符串的子串可通过选择个别字母或者使用`String.substr()`。
-* 两个字符串的连接使用连接操作符 \(`+`\) 或者`String.concat()`。
-  .
+1. 获取一个字符串的子串可通过选择个别字母或者使用`String.substr()`。
+
+2. 两个字符串的连接使用连接操作符 \(`+`\) 或者`String.concat()`。
+
+
+
+
 
 
 
