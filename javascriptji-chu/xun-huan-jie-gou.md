@@ -11,4 +11,4 @@
 在JavaScript中，通常通过以下四种方法实现循环结构：
 * For 循环
 
-![for](/assert/for循环.png)
+![](/assert/for循环.png)
