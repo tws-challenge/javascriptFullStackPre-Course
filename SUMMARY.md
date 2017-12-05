@@ -10,10 +10,12 @@
   * [markdown 使用 ](2 基本技能/2.2 intro-markdown.md)
   * [如何写 blog](2 基本技能/2.3 how-to-write-blog.md)
   * [Git 的简单应用](2 基本技能/2.4 intro-git.md)
+  * [GitHub Pages](2 基本技能/2.5 intro-github-pages.md)
 * [初识Linux](chu-shi-linux.md)
 * [JavaScript基础](javascriptji-chu.md)
   * [数据类型](javascriptji-chu/shu-ju-lei-xing.md)
   * [数学运算符](javascriptji-chu/shu-xue-yun-suan-fu.md)
   * [循环结构](javascriptji-chu/xun-huan-jie-gou.md)
   * [字符串](javascriptji-chu/zi-fu-chuan.md)
+  * [DOM 介绍](3 JavaScript基础/intro DOM.md)
 
