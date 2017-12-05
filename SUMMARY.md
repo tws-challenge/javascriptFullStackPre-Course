@@ -15,4 +15,5 @@
   * [数据类型](javascriptji-chu/shu-ju-lei-xing.md)
   * [数学运算符](javascriptji-chu/shu-xue-yun-suan-fu.md)
   * [循环结构](javascriptji-chu/xun-huan-jie-gou.md)
+  * [字符串](javascriptji-chu/zi-fu-chuan.md)
 
