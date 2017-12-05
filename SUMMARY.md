@@ -16,4 +16,5 @@
   * [数学运算符](javascriptji-chu/shu-xue-yun-suan-fu.md)
   * [循环结构](javascriptji-chu/xun-huan-jie-gou.md)
   * [字符串](javascriptji-chu/zi-fu-chuan.md)
+  * [对象](javascriptji-chu/dui-xiang.md)
 
