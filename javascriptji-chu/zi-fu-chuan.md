@@ -56,3 +56,9 @@ text = text + 'academy';
     * 从字符串中取出单个字符
     有两种方法：第一种方法是使用`charAt()`方法，示例：`'cat'.charAt(1); // 'a'`；另一种方法是把字符串当作一个类似数组的对象，其中的每个字符对应一个数值索引，示例：`'cat'[1]; // 'a'`。
     > 这里虽然使用括号访问字符串，但是不可以对其进行删除或添加，因为字符串是不可改变的。
+    * `concat()`方法
+    `concat()`方法将一个或多个字符串与原字符串连接合并，形成一个新的字符串并返回。`concat()`方法并不影响原字符串。示例：
+    ```JavaScript
+    var hello = "Hello, ";
+    console.log(hello.concat("Kevin", " have a nice day."));
+    ```
