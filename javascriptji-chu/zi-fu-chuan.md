@@ -87,3 +87,25 @@ text = text + 'academy';
     str.substring(3); // 'defghij'
     str.substring(2,3); // 'c'
     ```
+
+#### 其他资料推荐
+* [JS字符串 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String)
+* [JS字符串方法总结](https://www.impressivewebs.com/javascript-string-methods-reference/)
+
+#### 本节练习
+* 阅读以上推荐链接，了解所有的JS字符串方法。
+* 完成下面程序，将`name`变量中的字母全部转为为大写，输出：`'HELLO'`。
+```JavaScript
+var name = 'hello';
+// write your code here...
+```
+* 完成下面程序，将`sentence`变量中的所有单词首字母变为大写，输出：`'Good Afternoon, Mr Mike.'`。
+```JavaScript
+var sentence = 'good afternoon, mr mike.';
+// write your code here...
+```
+* 完成下面程序，将`money`变量中的金额提取出来，输出：`20`。
+```JavaScript
+var money = '￥20';
+// write your code here...
+```
