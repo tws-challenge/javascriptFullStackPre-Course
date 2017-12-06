@@ -31,3 +31,4 @@ DevTools打开后如下图所示：
 我们在DevTools中定位在Element模块，通过鼠标悬浮在某一个DOM节点上，那么在左侧的页面上改元素就会被高亮显示。
 
 ![](/assets/devtools2.png)
+
