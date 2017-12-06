@@ -21,4 +21,6 @@
   * [对象](javascriptji-chu/dui-xiang.md)
   * [数组](javascriptji-chu/shu-zu.md)
   * [函数](javascriptji-chu/han-shu.md)
+* [代码质量](dai-ma-zhi-liang.md)
+  * [在Chrome DevTools中进行调试](dai-ma-zhi-liang/zai-chromedevtools-zhong-jin-xing-diao-shi.md)
 
