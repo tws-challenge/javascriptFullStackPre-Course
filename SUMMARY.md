@@ -21,4 +21,5 @@
   * [对象](javascriptji-chu/dui-xiang.md)
   * [数组](javascriptji-chu/shu-zu.md)
   * [函数](javascriptji-chu/han-shu.md)
+* [整洁代码](clean-code.md)
 
