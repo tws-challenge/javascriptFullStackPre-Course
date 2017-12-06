@@ -32,3 +32,6 @@ DevTools打开后如下图所示：
 
 ![](/assets/devtools2.png)
 
+在Element面板中，我们可以看到还有一个子面板叫Style，在Style面板中，可以看到某一个元素的所有定义的CSS属性，并且我们在Style面板中修改CSS属性可以在页面中即时生效。
+
+![](/assets/devtools3.png)
