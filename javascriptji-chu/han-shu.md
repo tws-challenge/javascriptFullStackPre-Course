@@ -12,6 +12,35 @@
 
 ![](/assets/function.png)
 
-在上图中，一面
+在上图中，有一面漂亮的墙壁，当我们将这面墙壁的漂亮外衣拿掉，会发现在墙壁里面是由若干个砖头砌成的。若把一面修砌好的墙壁比作程序，那么这一个个的砖头就可以理解为函数。函数是一个执行特定功能的可重用的代码块。我们要想在程序中执行它，只需要给它传递参数并调用它，那么该函数就会返回给我们它的执行结果。
 
+在JavaScript中，我们使用`function`关键字来定义函数，后面跟一组参数以及函数体。函数的基本语法如下：
+```JavaScript
+function functionName(arg0, arg1, arg2 ... argn){
+    statements;
+}
+```
+下面是一个简单的函数示例：
+```JavaScript
+function sayHi(name, message){
+    alert('Hello ' + name + ', ' + message) + '!';
+}
+```
+这个函数可以通过其函数名来调用，后面还有加上一对圆括号和参数（圆括号中的参数如果有多个，可以用逗号隔开）。调用`sayHi()`函数的代码如下所示：
+```JavaScript
+sayHi('Mike', 'good morning'); // 'Hello Mike, good morning!'
+```
+这样函数的输出结果就是`'Hello Mike, good morning!'`。函数中定义的命名参数`name`和`message`被用作了字符串拼接的两个操作数，最终的结果通过警告框显示了出来。
 
+以上例子是一个没有指定返回值的例子。在JavaScript中定义函数的时候，不必指定是否有返回值，但实际上，任何函数在任何时候都可以通过`return`语句否跟要返回的值来实现返回值。具有返回值的示例如下：
+```JavaScript
+function add(num1, num2){
+    return num1 + num2;
+}
+```
+这个`add`函数的作用是把两个参数求和并将该值返回。除了`return`语句外，没有任何声明表示该函数会返回一个值。这个函数的调用示例如下：
+```JavaScript
+var result = add(3, 5);
+alert(result); // 8
+```
+最终的结果将会弹出`8`。这里可以注意到，我们需要用一个变量(`result`)来接收`add(3,5)`返回的值，这是因为我们在`add()`函数内部将结果返回(`return`)了出来，如果不用变量接收，将无法对该结果进行操作。
