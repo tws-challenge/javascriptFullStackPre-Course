@@ -16,7 +16,7 @@
 
 * 常用的Linux命令
   * 文件/目录: `cd`, `mkdir`, `cp`, `rm`, `mv`, `pwd`, `ls`, `tar`, `zip`, `find`, `grep`, `less`, `tail`, `tree`
-  * 帐号操作: `su`, `sudo`, `whoami`, \`passwd\`
+  * 帐号操作: `su`, `sudo`, `whoami`, `passwd`
   * 包管理: `apt-get`，添加软件源
   * 进程相关:  `ps` , `kill`
   * 系统信息相关: `top`, `df`, `uname`
