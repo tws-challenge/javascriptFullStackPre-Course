@@ -20,4 +20,5 @@
   * [DOM 介绍](3 JavaScript基础/intro DOM.md)
   * [对象](javascriptji-chu/dui-xiang.md)
   * [数组](javascriptji-chu/shu-zu.md)
+  * [函数](javascriptji-chu/han-shu.md)
 
