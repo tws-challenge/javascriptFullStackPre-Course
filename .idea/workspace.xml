@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db444842-1d15-40e6-b1cc-9ce3488ce95c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 JavaScript基础/3.1 ru-he-yin-yong-javascript.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 JavaScript基础/3.2 bian-liang.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chu-shi-linux.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascriptji-chu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascriptji-chu/dui-xiang.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascriptji-chu/han-shu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascriptji-chu/shu-ju-lei-xing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascriptji-chu/shu-xue-yun-suan-fu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascriptji-chu/shu-zu.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascriptji-chu/xun-huan-jie-gou.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascriptji-chu/zi-fu-chuan.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SUMMARY.md" afterPath="$PROJECT_DIR$/SUMMARY.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -14,8 +25,49 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2 intro.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2 基本技能/2 intro.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -50,6 +102,16 @@
             <path>
               <item name="javascriptFullStackPre-Course" type="b2602c69:ProjectViewProjectNode" />
               <item name="javascriptFullStackPre-Course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javascriptFullStackPre-Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascriptFullStackPre-Course" type="462c0819:PsiDirectoryNode" />
+              <item name="2 基本技能" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javascriptFullStackPre-Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascriptFullStackPre-Course" type="462c0819:PsiDirectoryNode" />
+              <item name="3 JavaScript基础" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -89,17 +151,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512558078113</updated>
-      <workItem from="1512558079484" duration="160000" />
+      <workItem from="1512558079484" duration="919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160000" />
+    <option name="totallyTimeSpent" value="919000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1204" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -126,5 +189,31 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 基本技能/2 intro.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
