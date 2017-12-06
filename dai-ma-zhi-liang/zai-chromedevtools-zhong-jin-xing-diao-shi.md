@@ -35,3 +35,8 @@ DevTools打开后如下图所示：
 在Element面板中，我们可以看到还有一个子面板叫Style，在Style面板中，可以看到某一个元素的所有定义的CSS属性，并且我们在Style面板中修改CSS属性可以在页面中即时生效。
 
 ![](/assets/devtools3.png)
+
+* Console模块
+我们在DevTools中定位在Console模块，当前模块可以用来查看和调试当前页面所加载的脚本的源文件。换句话说，我们可以在Console模块中执行JavaScript脚本。
+
+![](/assets/devtools4.png)
