@@ -40,3 +40,15 @@ DevTools打开后如下图所示：
 我们在DevTools中定位在Console模块，当前模块可以用来查看和调试当前页面所加载的脚本的源文件。换句话说，我们可以在Console模块中执行JavaScript脚本。
 
 ![](/assets/devtools4.png)
+
+若我们的页面中出现了一些错误，我们打开DevTools的Console面板也可以看到在该面板中是有页面的报错的。如下：
+我们的JavaScript脚本为：
+```JavaScript
+<script>
+    var lastName = 'Hello';
+    console.log(lastName + firstName);
+</script>
+```
+那么在Console面板中就会收到以下报错：
+
+![](/assets/devtools5.png)
