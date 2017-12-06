@@ -61,3 +61,9 @@
 
 报错信息提示我们`firstName`未定义，并且出错的位置在`index.html`的第`14`行,那么我们就可以更加高效的对页面进行调试和bug的修改。
 
+当然，Chrome DevTools的功能远比Element面板和Console面板中的内容更加强大，更多的DevTools使用技巧我们将在后续的任务卡中解锁。
+
+#### 其他推荐资料
+* [Chrome DevTools 概览](https://leeon.gitbooks.io/devtools/content/learn_basic/overview.html)
+* [前端开发Chrome调试技巧](http://colinued.leanote.com/post/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E7%A5%9E%E4%B8%80%E6%A0%B7%E7%9A%84%E5%B7%A5%E5%85%B7chrome%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7)
+* [Chrome 开发者工具](http://www.css88.com/doc/chrome-devtools/)
