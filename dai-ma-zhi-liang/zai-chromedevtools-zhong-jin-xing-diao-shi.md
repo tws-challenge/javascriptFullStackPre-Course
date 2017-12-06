@@ -5,18 +5,21 @@
 * 掌握用Chrome DevTools调试的基本方法
 
 #### 本节内容
+
 如何正确高效的定位到程序中存在的问题，进行bug的调试，也是一项基本的技能。在我们进入任务卡编写更加复杂的代码之前，我们有必要来学习一下如何利用Chrome DevTools进行页面的调试。
 
 几乎所有的现代浏览器都支持直接在浏览器中对页面进行**调试**，开发工具在浏览器中是一个单独的页面，以使我们调试起来更加方便。在这节中，我们以Chrome为例，因为Chrome的DevTools在调试方面的功能是最丰富的。
 
 我们可以通过下列方式打开DevTools：
+
 * 在页面空白处右键单击，选择**审查元素**。
-* 点击`F12`(Windows系统)/`Cmd+Opt+I`(Mac OSX系统)。
-DevTools打开后如下图所示：
+* 点击`F12`\(Windows系统\)/`Cmd+Opt+I`\(Mac OSX系统\)。
+  DevTools打开后如下图所示：
 
 ![](/assets/devtools1.png)
 
 可以看到其中有以下几个模块：
+
 * Element 标签页： 用于查看和编辑当前页面中的 HTML 和 CSS 元素。
 * Network 标签页：用于查看 HTTP 请求的详细信息，如请求头、响应头及返回内容等。
 * Source 标签页：用于查看和调试当前页面所加载的脚本的源文件。
@@ -27,8 +30,9 @@ DevTools打开后如下图所示：
 * Console 标签页：用于显示脚本中所输出的调试信息，或运行测试脚本等。
 
 下面我们重点讲解下其中我们最常使用的两个模块：
+
 * Element模块
-我们在DevTools中定位在Element模块，通过鼠标悬浮在某一个DOM节点上，那么在左侧的页面上改元素就会被高亮显示。
+  我们在DevTools中定位在Element模块，通过鼠标悬浮在某一个DOM节点上，那么在左侧的页面上改元素就会被高亮显示。
 
 ![](/assets/devtools2.png)
 
@@ -37,20 +41,23 @@ DevTools打开后如下图所示：
 ![](/assets/devtools3.png)
 
 * Console模块
-我们在DevTools中定位在Console模块，当前模块可以用来查看和调试当前页面所加载的脚本的源文件。换句话说，我们可以在Console模块中执行JavaScript脚本。
+  我们在DevTools中定位在Console模块，当前模块可以用来查看和调试当前页面所加载的脚本的源文件。换句话说，我们可以在Console模块中执行JavaScript脚本。
 
 ![](/assets/devtools4.png)
 
-若我们的页面中出现了一些错误，我们打开DevTools的Console面板也可以看到在该面板中是有页面的报错的。如下：
+若我们的页面中出现了一些错误，我们打开DevTools的Console面板也可以看到在该面板中是有页面的报错的。如下：  
 我们的JavaScript脚本为：
+
 ```JavaScript
 <script>
     var lastName = 'Hello';
     console.log(lastName + firstName);
 </script>
 ```
+
 那么在Console面板中就会收到以下报错：
 
 ![](/assets/devtools5.png)
 
 报错信息提示我们`firstName`未定义，并且出错的位置在`index.html`的第`14`行,那么我们就可以更加高效的对页面进行调试和bug的修改。
+
