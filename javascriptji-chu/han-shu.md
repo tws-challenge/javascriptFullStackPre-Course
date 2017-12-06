@@ -44,3 +44,40 @@ var result = add(3, 5);
 alert(result); // 8
 ```
 最终的结果将会弹出`8`。这里可以注意到，我们需要用一个变量(`result`)来接收`add(3,5)`返回的值，这是因为我们在`add()`函数内部将结果返回(`return`)了出来，如果不用变量接收，将无法对该结果进行操作。
+
+#### 其他推荐资料
+* [JavaScript函数 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function)
+* [JavaScript函数总结](http://www.qeefee.com/js/javascript-function-summary)
+* [js的函数总结](http://www.jianshu.com/p/421f158fbbb4?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
+
+#### 本节练习
+* 阅读上面推荐的资料，复习回顾关于JavaScript中函数的知识
+* 编写一个函数，实现以下功能：将一个字符串逆序输出。
+```JavaScript
+function reverseString(message){
+    // wirte your code here
+}
+reverse('hello'); // should return 'olleh'
+```
+* 编写一个函数，实现以下功能：判断一个字符串是否是回文串。（回文，一个字符串从前面读和从后面读都一样，例如：abcba就是回文串。）
+```JavaScript
+function palindrome(message){
+    // wirte your code here
+}
+palindrome('hello'); // should return false
+palindrome('abcba'); // should return true
+```
+* 编写一个函数，实现以下功能：按字母表顺序输出传入的参数字符串。
+```JavaScript
+function alphabetSort(message){
+    // wirte your code here
+}
+alphabetSort('hello'); // should return 'ehllo'
+```
+* 编写一个函数，实现以下功能：计算出一个字符串共有多少个单词组成。
+```JavaScript
+function countWords(message){
+    // wirte your code here
+}
+countWords('Good morning, I love JavaScript.'); // should return 5
+```
