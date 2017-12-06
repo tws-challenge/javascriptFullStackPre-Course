@@ -19,4 +19,5 @@
   * [字符串](javascriptji-chu/zi-fu-chuan.md)
   * [DOM 介绍](3 JavaScript基础/intro DOM.md)
   * [对象](javascriptji-chu/dui-xiang.md)
+  * [数组](javascriptji-chu/shu-zu.md)
 
