@@ -52,3 +52,5 @@ DevTools打开后如下图所示：
 那么在Console面板中就会收到以下报错：
 
 ![](/assets/devtools5.png)
+
+报错信息提示我们`firstName`未定义，并且出错的位置在`index.html`的第`14`行,那么我们就可以更加高效的对页面进行调试和bug的修改。
