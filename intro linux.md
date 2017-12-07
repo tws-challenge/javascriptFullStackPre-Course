@@ -28,7 +28,7 @@
 
 
 * 命令行基础视频讲解
-<video width="100%" id="video" controls="" preload="none" poster="/assets/linux basic poster.png">
+<video width="100%" id="video" controls="" preload="auto" poster="/assets/linux basic poster.png">
       <source id="mp4" src="/video/Linux命令行基础.mp4" type="video/mp4">
       <p>抱歉，你的浏览器不支持在线视频播放。</p>
 </video>

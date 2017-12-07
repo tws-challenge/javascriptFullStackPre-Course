@@ -9,10 +9,5 @@
 - 学会如何写 Blog
 - 学会 Git 的简单应用
 
-
-
-
-
-
 > 注：本章内容参考自：[思特沃克学院-编程生存基本技能](https://school.thoughtworks.cn/bbs/topic/289/0-%E7%BC%96%E7%A8%8B%E7%94%9F%E5%AD%98%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD)
 
