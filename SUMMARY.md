@@ -15,7 +15,7 @@
 * [JavaScript基础](3 JavaScript基础/3 intro.md)
   * [如何引用JavaScript](3 JavaScript基础/3.1 quote.md)
   * [变量](3 JavaScript基础/3.2 variable.md)
-  * [数据类型](3 JavaScript基础/3.3 variable.md)
+  * [数据类型](3 JavaScript基础/3.3 shu-ju-lei-xing.md)
   * [数学运算符](3 JavaScript基础/3.4 shu-xue-yun-suan-fu.md)
   * [循环结构](3 JavaScript基础/3.7 xun-huan-jie-gou.md)
   * [字符串](3 JavaScript基础/3.8 zi-fu-chuan.md)
