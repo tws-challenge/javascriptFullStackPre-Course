@@ -1,6 +1,6 @@
 # DOM 介绍
 
-####  学习目标
+####  本节学习目标
 
 - 了解DOM基础
 
@@ -93,6 +93,9 @@ myNode.removeAttribute('type') // 移除 type 属性
 ```
 
 
+#### 其他资料推荐
+
+- DOM 事件：http://www.w3school.com.cn/htmldom/dom_events.asp
 
 #### 本节练习
 
@@ -102,9 +105,3 @@ myNode.removeAttribute('type') // 移除 type 属性
 
 - 点击 `button` 时需要判断用户输入的账号密码是否为 123 ，并给予相应的提示（方式不限）
 - 如果账号或密码错误，将密码所在的 `input` 节点中的内容清空
-
-
-
-#### 推荐资料
-
-- DOM 事件：http://www.w3school.com.cn/htmldom/dom_events.asp

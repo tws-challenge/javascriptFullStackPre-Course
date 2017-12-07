@@ -14,6 +14,7 @@
 * [初识Linux](intro linux.md)
 * [JavaScript基础](javascriptji-chu.md)
   * [如何引用JavaScript](3 javascript基础/3.1 quote.md)
+  * [变量](3 javascript基础/3.2 variable.md)
   * [数据类型](3 javascript基础/3.2 variable.md)
   * [数学运算符](3 javascript基础/3.3 shu-xue-yun-suan-fu.md)
   * [循环结构](3 javascript基础/3.7 xun-huan-jie-gou.md)
@@ -23,5 +24,6 @@
   * [函数](3 javascript基础/han-shu.md)
   * [DOM 介绍](3 JavaScript基础/intro DOM.md)
 * [整洁代码](clean-code.md)
+* [在Chrome DevTools中进行调试](zai-chromedevtools-zhong-jin-xing-diao-shi.md)
 
 
