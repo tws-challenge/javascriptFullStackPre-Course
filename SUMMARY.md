@@ -17,6 +17,7 @@
   * [变量](3 JavaScript基础/3.2 variable.md)
   * [数据类型](3 JavaScript基础/3.3 shu-ju-lei-xing.md)
   * [数学运算符](3 JavaScript基础/3.4 shu-xue-yun-suan-fu.md)
+  * [逻辑运算符](3 JavaScript基础/3.5 luo-ji-yun -suan-fu.md)
   * [条件分支结构](3 JavaScript基础/3.6 tiao-jian-fen-zhi.md)
   * [循环结构](3 JavaScript基础/3.7 xun-huan-jie-gou.md)
   * [字符串](3 JavaScript基础/3.8 zi-fu-chuan.md)
