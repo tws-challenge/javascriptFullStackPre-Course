@@ -11,7 +11,6 @@
   * [如何写 blog](2 基本技能/2.3 how-to-write-blog.md)
   * [Git 的简单应用](2 基本技能/2.4 intro-git.md)
   * [GitHub Pages](2 基本技能/2.5 intro-github-pages.md)
-* [初识Linux](intro linux.md)
 * [JavaScript基础](3 JavaScript基础/3 intro.md)
   * [如何引用JavaScript](3 JavaScript基础/3.1 quote.md)
   * [变量](3 JavaScript基础/3.2 variable.md)
@@ -24,7 +23,6 @@
   * [数组](3 JavaScript基础/3.10 shu-zu.md)
   * [函数](3 JavaScript基础/3.11 han-shu.md)
   * [DOM 介绍](3 JavaScript基础/3.12 intro DOM.md)
-* [整洁代码](clean-code.md)
 * [在Chrome DevTools中进行调试](zai-chromedevtools-zhong-jin-xing-diao-shi.md)
-
-
+* [整洁代码](clean-code.md)
+* [初识Linux](intro linux.md)

@@ -22,5 +22,5 @@
   * 系统信息相关: `top`, `df`, `uname`
   * 网络相关：`ping`, `telnet`, `curl`, `netstat`，修改hosts
 
-
+* 命令行基础视频讲解
 
