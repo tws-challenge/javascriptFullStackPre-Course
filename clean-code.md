@@ -1,6 +1,6 @@
 # 代码整洁
 
-> 一群猴子在森林上窜下跳，抓着几个酸桃子，得意洋洋的坐在树上，确对自己造成的混乱熟视无睹。
+> 一群猴子在森林上窜下跳，抓着几个酸桃子，得意洋洋的坐在树上，却对自己造成的混乱熟视无睹。
 >
 > ​																	—《代码整洁之道》
 
@@ -108,3 +108,91 @@ var c = 3;
 - 警告
 - TODO
 - 公共 API
+
+
+
+#### 本节练习
+
+1. 下面哪几种命名是比较好的命名？
+
+   - var aaa;
+   - var b4;
+   - var name;
+   - var student;
+   - var MY_STUDENTS;
+   - var mY_Student;
+   - function findUserById(){}
+   - function finduserbyid(){}
+   - class Person{}
+   - class PERSON{}
+
+   ​
+
+2. 下面的代码哪一种的可读性更强呢，并思考为什么？
+
+假如一家商场对商品正在进行打折，价格在 100 - 200 之间的打八折，其它的按原价出售
+
+**第一种**
+
+```javascript
+function calculatePrice(price){
+   var result;
+
+  if (price >= 100 && price < 200) {
+    result = price * 0.8;
+  } else {
+    result = price;
+  }
+
+  return result;
+}
+```
+
+
+
+**第二种**
+
+```JavaScript
+function calculatePrice(price) {
+  let result;
+
+  if (isDiscount(price)) {
+    result = discount(price);
+  } else {
+    result = price;
+  }
+
+  return result;
+}
+
+function isDiscount(price) {
+  return price >= 100 && price < 200;
+}
+
+function discount(price) {
+  return price * 0.5;
+}
+```
+
+
+
+**第三种**
+
+```javascript
+function calculatePrice(price) {
+  if (isDiscount(price)) {
+    return discount(price);
+  } else {
+   return price;
+  }
+}
+
+function isDiscount(price) {
+  return price >= 100 && price < 200;
+}
+
+function discount(price) {
+  return price * 0.5;
+}
+```
+
